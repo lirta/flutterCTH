@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1020873277540",
+    "firebase_url": "https://chatterboxlirta.firebaseio.com",
+    "project_id": "chatterboxlirta",
+    "storage_bucket": "chatterboxlirta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020873277540:android:2ae9ae7eedbc5480a29f71",
+        "android_client_info": {
+          "package_name": "com.example.chatterbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020873277540-sfj385llqe24oo6n8l20jd5rj9altu81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtV1AXsDiUAXUehdecitSpZnWJgCoJs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020873277540-sfj385llqe24oo6n8l20jd5rj9altu81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020873277540:android:b15415db07e620aba29f71",
+        "android_client_info": {
+          "package_name": "com.example.chatterbox_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020873277540-sfj385llqe24oo6n8l20jd5rj9altu81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtV1AXsDiUAXUehdecitSpZnWJgCoJs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020873277540-sfj385llqe24oo6n8l20jd5rj9altu81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020873277540:android:57c885789411f884a29f71",
+        "android_client_info": {
+          "package_name": "com.example.chatterboxadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020873277540-sfj385llqe24oo6n8l20jd5rj9altu81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtV1AXsDiUAXUehdecitSpZnWJgCoJs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020873277540-sfj385llqe24oo6n8l20jd5rj9altu81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
